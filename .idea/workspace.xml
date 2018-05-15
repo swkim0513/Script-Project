@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27b24aa9-f559-4267-a358-49a8799ad41c" name="Default" comment="" />
+    <list default="true" id="27b24aa9-f559-4267-a358-49a8799ad41c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/volunteer.py" beforeDir="false" afterPath="$PROJECT_DIR$/volunteer.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +16,8 @@
       <file leaf-file-name="volunteer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/volunteer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="19">
+              <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -116,7 +118,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="51" width="692" height="754" extended-state="1" />
+    <frame x="68" y="51" width="692" height="754" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24926254" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -143,8 +146,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/volunteer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="19">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
